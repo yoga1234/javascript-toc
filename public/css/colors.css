@@ -1,0 +1,39 @@
+.halogen{
+  background-color: #33B03C;
+}
+
+.noble-gas{
+  background-color: #FB278D;
+}
+
+.alkali-metal {
+  background-color: #F75D29;
+}
+
+.alkaline-earth-metal {
+  background-color: #0A79E8;
+}
+
+.metalloid {
+  background-color: #E43273;
+}
+
+.non-metal {
+  background-color: #2BF0D8;
+}
+
+.post-transition-metal {
+  background-color: #7F2B8B;
+}
+
+.transition-metal {
+  background-color: #D61C43;
+}
+
+.lanthanide {
+  background-color: #43CA1E;
+}
+
+.actinide {
+  background-color: #8E31C7;
+}
